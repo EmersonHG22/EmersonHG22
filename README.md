@@ -1,9 +1,6 @@
 ### Olá! Eu Sou EmersonHG22 👋👨🏻‍💻
 
 
-
-Here are some ideas to get you started:
-
 - 🔭 Atualmente trabalhando com Tacógrafo ...
 - 🌱 Estudando desenvolvimento Web ...
 - 😄 Pronouns: Ele/dele ...
