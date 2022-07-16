@@ -5,7 +5,7 @@
 - 🌱 Estudando desenvolvimento Web ...
 - 😄 Pronouns: Ele/dele ...
 
--->
+
 <div align="center">
   <a href="https://github.com/EmersonHG22">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmersonHG22&show_icons=true&theme=dracula&include_all_commits=false&count_private=true"/>
